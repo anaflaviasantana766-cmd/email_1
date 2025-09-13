@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Email Leitura</title>
+  </head>
+
+  <body style="margin:0; padding:0; background-color:#ffffff;">
+    <center>
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" style="max-width:600px; font-family: Arial, sans-serif; color:#000000;">
+
+        <!-- Cabeçalho -->
+        <tr>
+          <td bgcolor="#004d8f" align="left" style="padding:10px 20px;">
+            <img src="https://raw.githubusercontent.com/anaflaviasantana766-cmd/seliga_1/refs/heads/main/minha_imagens/LOGO_LEITURA_58_AZUL_H.png" alt="Logo Leitura" height="28" style="display:block; max-width:20%; height:auto;">
+          </td>
+        </tr>
+
+        <!-- Banner principal -->
+        <tr>
+          <td>
+            <img src="https://raw.githubusercontent.com/anaflaviasantana766-cmd/seliga_1/refs/heads/main/minha_imagens/fundo.png" alt="Banner" width="600" style="display:block; width:100%; max-width:600px; height:auto;">
+          </td>
+        </tr>
+
+        <!-- Bloco com fundo Vector.png -->
+        <tr>
+          <td background="https://raw.githubusercontent.com/anaflaviasantana766-cmd/seliga_1/refs/heads/main/minha_imagens/Vector.png" bgcolor="#000000" style="padding:40px 20px; background-size:cover; background-position:center;">
+
+            <!-- Texto introdutório -->
+            <h2 style="color:#fff; font-size:22px; margin:0; text-align:center;">
+              Conheça a trilogia Belladonna:
+            </h2>
+            <p style="color:#fff; font-size:16px; margin:10px 0 20px; text-align:center;">
+              duas heroínas, a Morte e o Destino
+            </p>
+            <p style="color:#fff; font-size:14px; line-height:1.4; text-align:center; max-width:520px; margin:0 auto;">
+              Poderia ser culpada porque era a garota capaz de enxergar a morte.
+              Mistério, romance sombrio e toques de mitologia se entrelaçam na trilogia gótica de Adalyn Grace.
+            </p>
+
+            <!-- Bloco do livro -->
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:30px;">
+              <tr>
+                <!-- Capa -->
+                <td width="200" valign="top" align="center">
+                  <img src="https://raw.githubusercontent.com/anaflaviasantana766-cmd/seliga_1/refs/heads/main/minha_imagens/616%2BzmQ4jtL%201.png" alt="https://raw.githubusercontent.com/anaflaviasantana766-cmd/seliga_1/refs/heads/main/minha_imagens/616%2BzmQ4jtL%201.png" width="180" style="display:block; margin:0 auto; border-radius:8px; max-width:100%; height:auto;">
+                </td>
+
+                <!-- Infos -->
+                <td valign="top" style="padding-left:20px; color:#fff;">
+                  <h3 style="margin:0 0 8px 0; font-size:18px;">Purpurea: A trama do destino 2</h3>
+                  <p style="margin:0 0 8px 0; font-size:12px;">por Adalyn Grace (Autor)</p>
+
+                  <p style="margin:0 0 12px 0; font-size:12px;">
+                    Tradução: <br>
+                    Número de páginas: <br>
+                    Classificação: <br>
+                    Editora: <br>
+                    Data de publicação:
+                  </p>
+
+                  <!-- Botão com ícone -->
+                  <table cellpadding="0" cellspacing="0" border="0" style="margin:16px 0;">
+                    <tr>
+                      <td bgcolor="#ff9d00" style="border-radius:6px; text-align:center;">
+                        <a href="LINK_COMPRAR" target="_blank" style="display:inline-block; padding:10px 20px; font-size:14px; font-weight:bold; 
+                                color:#000; text-decoration:none; font-family:Arial, sans-serif;">
+                          <table cellpadding="0" cellspacing="0" border="0" align="center">
+                            <tr>
+                              <td valign="middle" style="padding-right:8px;">
+                                <img src="https://raw.githubusercontent.com/anaflaviasantana766-cmd/seliga_1/refs/heads/main/minha_imagens/Union.png" alt="" width="16" height="16" style="display:block;">
+                              </td>
+                              <td valign="middle" style="font-size:14px; font-weight:bold; font-family:Arial, sans-serif; color:#000;">
+                                Comprar
+                              </td>
+                            </tr>
+                          </table>
+                        </a>
+                      </td>
+                    </tr>
+                  </table>
+
+                  <p style="margin:12px 0 0 0; font-size:12px;">Nota do Colunista:</p>
+                </td>
+              </tr>
+            </table>
+
+            <!-- Recomendações dentro do retângulo -->
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:40px;">
+              <tr>
+                <td align="center">
+                  <table width="544" cellpadding="0" cellspacing="0" border="0" style="background-color:rgba(0,0,0,0.71); border-radius:32px;">
+                    <tr>
+                      <td style="padding:20px; text-align:center; color:#fff;">
+
+                        <h3 style="margin:0 0 20px; font-size:18px; color:#fff;">
+                          Gostou dos livros e quer outra recomendação?
+                        </h3>
+
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td width="33%" align="center">
+                              <img src="LINK_LIVRO1" alt="Livro 1" width="120" style="display:block; margin:0 auto; border-radius:12px; max-width:100%; height:auto;">
+                            </td>
+                            <td width="33%" align="center">
+                              <img src="LINK_LIVRO2" alt="Livro 2" width="120" style="display:block; margin:0 auto; border-radius:12px; max-width:100%; height:auto;">
+                            </td>
+                            <td width="33%" align="center">
+                              <img src="LINK_LIVRO3" alt="Livro 3" width="120" style="display:block; margin:0 auto; border-radius:12px; max-width:100%; height:auto;">
+                            </td>
+                          </tr>
+                        </table>
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+
+            <!-- Retângulo resenha -->
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin-top:20px;">
+              <tr>
+                <td align="center">
+                  <a href="https://www.instagram.com/porqueleio" target="_blank" style="text-decoration:none; display:block; width:344px; margin:0 auto;">
+                    <table width="344" cellpadding="0" cellspacing="0" border="0" style="background-color:rgba(0,0,0,0.71); border-radius:32px;">
+                      <tr>
+                        <td style="padding:8px 16px; color:#fff; font-family:Poppins, Arial, sans-serif; font-weight:bold; font-size:12px;">
+                          <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                            <tr>
+                              <!-- Imagem -->
+                              <td width="61" valign="middle" align="left">
+                                <img src="https://raw.githubusercontent.com/anaflaviasantana766-cmd/seliga_1/refs/heads/main/minha_imagens/Ativo%202%201.png" alt="Avatar Maisa" width="61" height="64" style="display:block; border-radius:50%; max-width:100%; height:auto;">
+                              </td>
+                              <!-- Texto -->
+                              <td valign="middle" align="left" style="padding-left:12px; color:#fff; font-family:Poppins, Arial, sans-serif; font-weight:bold; font-size:12px;">
+                                Resenhado por: Maisa Gonçalves<br>
+                                Siga: @porqueleio
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </a>
+                </td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+
+        <!-- Rodapé -->
+        <tr>
+          <td bgcolor="#004d8f" style="height:80px; text-align:center; color:#fff; font-size:12px;">
+            <p style="margin:0; padding:20px;">&copy; 2024 Leitura - Todos os direitos reservados.</p>
+          </td>
+        </tr>
+
+      </table>
+    </center>
+  </body>
+
+</html>
